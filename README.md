@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/eth-clients/goerli">Goerli (2019)</a> | <a href="https://github.com/eth-clients/sepolia">Sepolia (2021)</a> | <strong>Holešky (2023)</strong></p>
 <p align="center"><img src="./assets/holesovice.png" /></p>
 
-# Holešky (Holešovice Testnet)
+# Holesky (Holesovice Testnet)
 
 Meet `--holesky`, the first long-standing, merged-from-genesis, public Ethereum testnet. Holešky will replace <a href="https://github.com/eth-clients/goerli">Goerli</a> as a staking, infrastructure and protocol-developer testnet in 2023. For testing decentralized applications, smart contracts, and other EVM functionality, please use <a href="https://github.com/eth-clients/sepolia">Sepolia</a>!
 
